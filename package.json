@@ -1,5 +1,5 @@
 {
-  "name": "less04-state-events",
+  "name": "todolist-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
